@@ -1,4 +1,3 @@
-ghcr.io/senshinya/moontv:latest
 nginx:latest
 mysql
 redis
